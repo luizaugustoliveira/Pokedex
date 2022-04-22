@@ -5,8 +5,6 @@ Para executar o código é necessário ter tanto o python3 quanto o framework Dj
 
 Acessar o diretório pokedex que é a raiz do projeto ao digitar no bash:
 
-cd desafio/
-
 cd pokedex/
 
 Posteriormente, rodar os seguintes comandos:
