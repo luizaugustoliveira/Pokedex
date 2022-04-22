@@ -13,5 +13,5 @@ python3 manage.py migrate
 
 python3 manage.py runserver
 
-Dessa forma, é possível ver a interface gráfica na url: http://127.0.0.1:8000/
+Após esses passos, é possível ver a interface gráfica na url: http://127.0.0.1:8000/
  
