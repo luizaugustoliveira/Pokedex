@@ -1,2 +1,4 @@
 # Pokedex
- Repositório da interface
+ Repositório da interface de uma pokedex
+
+ 
