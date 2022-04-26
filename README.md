@@ -15,5 +15,6 @@ Posteriormente, rodar os seguintes comandos:
 
 Após esses passos, é possível ver a interface gráfica na url: http://127.0.0.1:8000/
  
-![Pokedex](https://user-images.githubusercontent.com/72316764/165331741-0a8317a5-9b70-418a-98d6-9d953d057240.png)
+![interfacepokedex](https://user-images.githubusercontent.com/72316764/165333306-f86e29ce-6c8a-4a67-a9da-4c233e52dfea.png)
+
 
