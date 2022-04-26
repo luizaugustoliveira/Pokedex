@@ -1,7 +1,9 @@
 # Pokedex
- Repositório da interface de uma pokedex
+![interfacepokedex](https://user-images.githubusercontent.com/72316764/165333306-f86e29ce-6c8a-4a67-a9da-4c233e52dfea.png)
+<center>Repositório da interface de uma pokedex</center>
 
-Para executar o código é necessário ter tanto o **python3** quanto o **framework Django** instalado em sua máquina e logo após isso, realizar os seguintes passos:
+
+Para visualizá-la por completo, é necessário ter tanto o **python3** quanto o **framework Django** instalado em sua máquina e logo após isso, realizar os seguintes passos:
 
 Acessar o diretório **pokedex** que é a raiz do projeto ao digitar no bash:
 
@@ -15,6 +17,3 @@ Posteriormente, rodar os seguintes comandos:
 
 Após esses passos, é possível ver a interface gráfica na url: http://127.0.0.1:8000/
  
-![interfacepokedex](https://user-images.githubusercontent.com/72316764/165333306-f86e29ce-6c8a-4a67-a9da-4c233e52dfea.png)
-
-
